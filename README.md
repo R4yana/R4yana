@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahsa</h1>
-<h3 align="center">A blockchain developer from Iran</h3>
-
-- 🔭 I’m currently working on **Smart Contracts**
-
-- 🌱 I’m currently learning **Blockchain Structures to fix my trust issues:"]]]]**
 
 - 📫 How to reach me **itrayana.4321@gmail.com**
-
-- ⚡ Fun fact **I DON'T CARE AT ALL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
