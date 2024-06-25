@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahsa</h1>
 
-- 📫 How to reach me **R4yanaa@proton.me**
+- 📫 How to reach me **R4yanaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
